@@ -88,7 +88,7 @@ To build an intuitive, visual tool that:
 
 ## 🖼️ Screenshot
 
-![Virat Kohli Career Dashboard](./Screenshot_of_Virat_Kohli_Career_Dashboard.png)
+![Virat Kohli Career Dashboard](https://github.com/Onkarhavarge-2003/Virat_Kohli_career_Dashboard/blob/main/Screenshot_of_Virat_Kohli_Career_Dashboard.png)
 
 ---
 
