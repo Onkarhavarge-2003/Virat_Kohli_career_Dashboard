@@ -1,5 +1,4 @@
 # Virat_Kohli_career_Dashboard
-# 🏏 KohliVerse: Virat Kohli Career Stats & Insights Dashboard
 
 An interactive Power BI dashboard designed to explore and analyze Virat Kohli’s international cricket career through dynamic visuals, year-wise performance, format filters, and milestone tracking.
 
